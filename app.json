@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "store",
+    "slug": "store",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "facebookAppId": "409233656340391",
+    "facebookScheme": "fb409233656340391",
+    "facebookDisplayName": "store",
+    "extra": {
+      "googleAppId": {
+        "ios": "700599846401-l4n23aea76158uum80tg007vjjjketd1.apps.googleusercontent.com",
+        "android": "700599846401-k2j60tjo8g8ro35llbjmg7p71q960qgd.apps.googleusercontent.com"
+      }
+    }
+  }
+}
